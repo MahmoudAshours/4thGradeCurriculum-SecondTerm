@@ -3,6 +3,9 @@
 This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) which includes all University's material.
 
 ## Distributed Systems
+
+Lectures 1 & 2 :
+
 - [Distributed Systems | Distributed Computing Explained](https://www.youtube.com/watch?v=ajjOEltiZm4)
 - [INTRODUCTION TO GRID COMPUTING](https://www.youtube.com/watch?v=vkBY07pbgGU)
 - [What is a Content Delivery Network (CDN)?](https://www.youtube.com/watch?v=Bsq5cKkS33I)
@@ -17,5 +20,9 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 - [REST vs RPC vs GraphQL API - How do I pick the right API paradigm?](https://www.youtube.com/watch?v=hkXzsB8D_mo)
 - [Message Oriented Middleware](https://www.youtube.com/watch?v=v7pD7Ptb0b0)
 - [What Is REST? | Scott Duffy](https://www.youtube.com/watch?v=LHJk_ISxHHc)
+- [Overlay Networks in General - Georgia Tech - Advanced Operating Systems](https://www.youtube.com/watch?v=pbBcYb6kaRE)
+- [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww)
+- [What is edge computing?](https://www.youtube.com/watch?v=cEOUeItHDdo)
+- [Publish-Subscribe Architecture (Explained by Example)](https://www.youtube.com/watch?v=O1PgqUqZKTA)
 
 ## Artificial Intelligence
