@@ -41,6 +41,10 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 - [What is DNS and How Does It Work?](https://www.youtube.com/watch?v=9d0iu2Q6iMU)
 - [What is a Proxy Server?](https://www.youtube.com/watch?v=5cPIukqXe5w)
 - [What is a Proxy?](https://www.youtube.com/watch?v=jGQTS1CxZTE)
+- [What is Code migration | Issues in Code migration|Short note on Code migration|Distributed Computing](https://www.youtube.com/watch?v=Q-RV-IqStEk)
+- [Process Migration in Distributed Computing Environment](https://www.youtube.com/watch?v=uk45d-0avKA)
+- [Lecture 05: Java Applet  Programming](https://www.youtube.com/watch?v=0pzR2FGTEhk)
+- [Migrating Virtual Machines](https://www.youtube.com/watch?v=257nITkIjio)
 
 ### Articles :
 - [Difference between Grid computing and Cluster computing](https://www.geeksforgeeks.org/difference-between-grid-computing-and-cluster-computing/)
