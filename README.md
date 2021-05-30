@@ -24,5 +24,11 @@ Lectures 1 & 2 :
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww)
 - [What is edge computing?](https://www.youtube.com/watch?v=cEOUeItHDdo)
 - [Publish-Subscribe Architecture (Explained by Example)](https://www.youtube.com/watch?v=O1PgqUqZKTA)
+- [Service-Oriented Architecture -SOA | Software/Web Application Architecture](https://www.youtube.com/watch?v=jNiEMmoTDoE)
+- [Layered/n-Tier Architectural pattern.](https://www.youtube.com/watch?v=BCXcIllT7Lc)
+- [4.8 Object Oriented architecture](https://www.youtube.com/watch?v=guOOiqLIUcw)
+- [Centralised vs Distributed Databases](https://www.youtube.com/watch?v=QjvjeQquon8)
+- [Peer-to-peer (P2P) Networks - Basic Algorithms](https://www.youtube.com/watch?v=kXyVqk3EbwE)
+
 
 ## Artificial Intelligence
