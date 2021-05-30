@@ -4,7 +4,9 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 
 ## Distributed Systems
 
-Lectures 1 & 2 :
+[MIT Distributed systems playlist](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+
+**Lectures 1 & 2 :**
 
 - [Distributed Systems | Distributed Computing Explained](https://www.youtube.com/watch?v=ajjOEltiZm4)
 - [INTRODUCTION TO GRID COMPUTING](https://www.youtube.com/watch?v=vkBY07pbgGU)
@@ -29,6 +31,22 @@ Lectures 1 & 2 :
 - [4.8 Object Oriented architecture](https://www.youtube.com/watch?v=guOOiqLIUcw)
 - [Centralised vs Distributed Databases](https://www.youtube.com/watch?v=QjvjeQquon8)
 - [Peer-to-peer (P2P) Networks - Basic Algorithms](https://www.youtube.com/watch?v=kXyVqk3EbwE)
+
+**Lectures 3 & 4 :**
+
+- [Torrents Explained: How BitTorrent Works](https://www.youtube.com/watch?v=urzQeD7ftbI)
+- [What is Torrent](https://www.youtube.com/watch?v=ksMAvbW5d8I)
+- [What is Torrent? is it Legal? is it Safe?](https://www.youtube.com/watch?v=DnK3VFhDSRE)
+
+
+### Articles :
+- [Difference between Grid computing and Cluster computing](https://www.geeksforgeeks.org/difference-between-grid-computing-and-cluster-computing/)
+- [Distributed Computing Models](https://www.cs.usfca.edu/~srollins/courses/cs682-s08/web/notes/models.html#:~:text=The%20application%20layer%20defines%20the,architectures%20employed%20by%20distributed%20systems.)
+- [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/)
+- [Unstructured And Structured P2P Networks](https://www.streetdirectory.com/etoday/-efewua.html)
+- [Summary of the BitTorrent Protocol paper](https://www.cs.helsinki.fi/webfm_send/1330)
+- [How Does BitTorrent Work?](https://www.howtogeek.com/141257/htg-explains-how-does-bittorrent-work/)
+- [Difference between stateless and stateful protocols](https://www.tutorialspoint.com/difference-between-stateless-and-stateful-protocols#:~:text=In%20Stateless%2C%20server%20is%20not,current%20state%20and%20session%20information.&text=In%20stateless%2C%20server%20and%20client,and%20client%20are%20tightly%20bound.)
 
 
 ## Artificial Intelligence
