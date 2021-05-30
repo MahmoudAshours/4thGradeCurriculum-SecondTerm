@@ -37,7 +37,10 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 - [Torrents Explained: How BitTorrent Works](https://www.youtube.com/watch?v=urzQeD7ftbI)
 - [What is Torrent](https://www.youtube.com/watch?v=ksMAvbW5d8I)
 - [What is Torrent? is it Legal? is it Safe?](https://www.youtube.com/watch?v=DnK3VFhDSRE)
-
+- [Mobile Communication 3 - What is a Handoff Procedure ?](https://www.youtube.com/watch?v=lSwRfjgUYqQ)
+- [What is DNS and How Does It Work?](https://www.youtube.com/watch?v=9d0iu2Q6iMU)
+- [What is a Proxy Server?](https://www.youtube.com/watch?v=5cPIukqXe5w)
+- [What is a Proxy?](https://www.youtube.com/watch?v=jGQTS1CxZTE)
 
 ### Articles :
 - [Difference between Grid computing and Cluster computing](https://www.geeksforgeeks.org/difference-between-grid-computing-and-cluster-computing/)
