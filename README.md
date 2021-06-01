@@ -61,5 +61,11 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 - [Code Migration](https://cdn.manesht.ir/12294___Code%20Migration.pdf)
 - [What is Java Applet?](https://www.javatpoint.com/java-applet)
 - [What is Code on demand?](https://en.wikipedia.org/wiki/Code_on_demand)
-
+- [Little and Big Endian Mystery](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)
+- [What is a forwarding pointer?](https://cs.stackexchange.com/questions/30208/what-is-a-forwarding-pointer)
+- [DNS Client (DNS Resolver) and DNS Server (Name Server)](https://www.omnisecu.com/tcpip/dns-client-resolver-and-dns-server.php#:~:text=A%20Domain%20Name%20System%20(DNS)%20Client%20is%20any%20computer%20that,Operating%20System%20and%20other%20applications.)
+- [How to Create Hard and Symbolic Links in Linux](https://www.tecmint.com/create-hard-and-symbolic-links-in-linux/#:~:text=A%20hard%20link%20is%20a,another%20filename%20in%20the%20filesystem.)
+- [Distributed Systems Naming](https://www.ia.pw.edu.pl/~tkruk/edu/rso.b/lecture/pre/rso09_pre.pdf)
+- [What is Strict Consistency vs Eventual Consistency?](https://www.cohesity.com/blogs/strict-vs-eventual-consistency/)
+ 
 ## Artificial Intelligence
