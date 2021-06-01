@@ -52,7 +52,11 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 - [MicroNuggets: Hard Links versus Soft Links Explained](https://www.youtube.com/watch?v=lW_V8oFxQgA)
 - [Lecture 05: Java Applet  Programming](https://www.youtube.com/watch?v=0pzR2FGTEhk)
 - [Process Migration in Distributed Computing Environment](https://www.youtube.com/watch?v=uk45d-0avKA)
-
+- [DNS recursive query vs. Iterative query](https://www.youtube.com/watch?v=PS0UppB3-fg)
+- [How DNS Works - Computerphile](https://www.youtube.com/watch?v=uOfonONtIuk)
+- [Understanding Recursive DNS Name Resolution](https://www.youtube.com/watch?v=lyX9K5a52rI)
+- [Routing 1: Flooding](https://www.youtube.com/watch?v=P6hn1kSECng)
+- [Sequential Consistency - Georgia Tech - Advanced Operating Systems](https://www.youtube.com/watch?v=AUxFuD_IfqA)
 
 ### Articles :
 - [Difference between Grid computing and Cluster computing](https://www.geeksforgeeks.org/difference-between-grid-computing-and-cluster-computing/)
@@ -75,5 +79,6 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 - [How to Create Hard and Symbolic Links in Linux](https://www.tecmint.com/create-hard-and-symbolic-links-in-linux/#:~:text=A%20hard%20link%20is%20a,another%20filename%20in%20the%20filesystem.)
 - [Distributed Systems Naming](https://www.ia.pw.edu.pl/~tkruk/edu/rso.b/lecture/pre/rso09_pre.pdf)
 - [What is Strict Consistency vs Eventual Consistency?](https://www.cohesity.com/blogs/strict-vs-eventual-consistency/)
- 
+- [IBM MQ](https://developer.ibm.com/components/ibm-mq/articles/mq-fundamentals/)
+
 ## Artificial Intelligence
