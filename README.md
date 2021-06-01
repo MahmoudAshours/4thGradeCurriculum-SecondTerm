@@ -46,6 +46,14 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 - [Lecture 05: Java Applet  Programming](https://www.youtube.com/watch?v=0pzR2FGTEhk)
 - [Migrating Virtual Machines](https://www.youtube.com/watch?v=257nITkIjio)
 
+**Lectures 5 & 6 :**
+- [Finger Tables - Georgia Tech - Network Congestion](https://www.youtube.com/watch?v=GOOXa2GkPws)
+- [Distributed Hash Tables, Video, and Fun! - Thomas Gebert & Nick Misturak](https://www.youtube.com/watch?v=A5Y4HcTp-Ks)
+- [MicroNuggets: Hard Links versus Soft Links Explained](https://www.youtube.com/watch?v=lW_V8oFxQgA)
+- [Lecture 05: Java Applet  Programming](https://www.youtube.com/watch?v=0pzR2FGTEhk)
+- [Process Migration in Distributed Computing Environment](https://www.youtube.com/watch?v=uk45d-0avKA)
+
+
 ### Articles :
 - [Difference between Grid computing and Cluster computing](https://www.geeksforgeeks.org/difference-between-grid-computing-and-cluster-computing/)
 - [Distributed Computing Models](https://www.cs.usfca.edu/~srollins/courses/cs682-s08/web/notes/models.html#:~:text=The%20application%20layer%20defines%20the,architectures%20employed%20by%20distributed%20systems.)
