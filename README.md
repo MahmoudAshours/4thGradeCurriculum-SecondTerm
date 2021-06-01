@@ -54,6 +54,12 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 - [Summary of the BitTorrent Protocol paper](https://www.cs.helsinki.fi/webfm_send/1330)
 - [How Does BitTorrent Work?](https://www.howtogeek.com/141257/htg-explains-how-does-bittorrent-work/)
 - [Difference between stateless and stateful protocols](https://www.tutorialspoint.com/difference-between-stateless-and-stateful-protocols#:~:text=In%20Stateless%2C%20server%20is%20not,current%20state%20and%20session%20information.&text=In%20stateless%2C%20server%20and%20client,and%20client%20are%20tightly%20bound.)
-
+- [Concurrent and iterative servers](https://www.ibm.com/docs/en/zos/2.1.0?topic=chart-concurrent-iterative-servers)
+- [Concurrent vs. iterative servers](https://slideplayer.com/slide/5157129/)
+- [Care-of address](https://en.wikipedia.org/wiki/Care-of_address#:~:text=A%20care%2Dof%20address%20(usually,device%20used%20in%20Internet%20routing.&text=A%20separate%20address%20is%20required,match%20the%20network%20of%20attachment.)
+- [What is PlanetLab?](https://en.wikipedia.org/wiki/PlanetLab)
+- [Code Migration](https://cdn.manesht.ir/12294___Code%20Migration.pdf)
+- [What is Java Applet?](https://www.javatpoint.com/java-applet)
+- [What is Code on demand?](https://en.wikipedia.org/wiki/Code_on_demand)
 
 ## Artificial Intelligence
