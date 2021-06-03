@@ -81,4 +81,9 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 - [What is Strict Consistency vs Eventual Consistency?](https://www.cohesity.com/blogs/strict-vs-eventual-consistency/)
 - [IBM MQ](https://developer.ibm.com/components/ibm-mq/articles/mq-fundamentals/)
 
+## Computer Vision
+
+## Wireless communication
+
 ## Artificial Intelligence
+
