@@ -7,99 +7,98 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 ### Distributed Systems Notes
 
 **This is the topics will be discussed in this repository** 
-
-What is distributed systems?
-Autonomous nodes
-Overlay network 
-Coherent system
-Content distributed system
-Cluster computing
-Grid computing
-Transaction processing monitor
-Remote procedure call
-Message oriented middleware
-Distributed pervasive system
-Application layering
-Mobile computing
-Sensor network
-SOAP architecture
-Difference between REST & SOAP
-What is URI?
-Object based style architecture 
-Restful architecture
-Publish subscribe architecture 
-Centralized architecture 
-Structured Peer to peer
-Unstructured peer to peer
-Super peer (peer to peer network)
-Flooding vs random walk
-How does bitTorrent work?
-What is torrent file?
-Bit torrent phases
-X Window System
-Server end point  ( Static vs dynamic approach)
-Stateless vs Stateful server
-Iterative server
-Concurrent server
-TCP handoff
-Transport layer switching
-Content aware distribution
-What is DNS
-What is Proxy
-Mobile IP
-Care address
-Home address
-What is Planet Lab?
-Code migration
-Why is code migration important?
-Java applet
-What is Process context 
-Code on demand
-Mobile agents
-VM migration
-Cloning in distributed system
-What does fork do?
-Transient communication
-Persistant communication
-Async communication
-Sync communication
-Big Indian
-Little Indian
-Client to server binding
-Web sphere MQ
-Flooding
-Anti entropy
-Rumor spreading
-Flat naming
-Forwarding pointer
-Chord lookup table
-Finger table
-Distributed Hash table
-Hierarchical Location services (HLS)
-Name space
-Hard link 
-Soft link
-Iterative name resolution
-Recursive name resolution
-Client name resolver
-Nl, Vu , Cs nodes
-Strict consistency
-Loose consistency
-Data centric consistency models
-Client centric consistency models
-Total ordering
-Sequential consistency
-Causal consistency
-Monotonic read
-Monotonic write
-Read your writes
-Write follows read
-Primary based protocol
-Replicated write protocol
-Remote write protocol
-Local write protocol 
-Active replication protocol
-Euorom based protocol
+- What are distributed systems?
+- Autonomous nodes
+- Overlay network
+- Coherent system
+- Content distributed system
+- Cluster computing
+- Grid computing
+- Transaction processing monitor
+- Remote procedure call
+- Message oriented middleware
+- Distributed pervasive system
+- Application layering
+- Mobile computing
+- Sensor network
+- SOAP architecture
+- Difference between REST &amp; SOAP
+- What is URI?
+- Object based style architecture
+- Restful architecture
+- Publish subscribe architecture
+- Centralized architecture
+- Structured Peer to peer
+- Unstructured peer to peer
+- Super peer (peer to peer network)
+- Flooding vs random walk
+- How does bitTorrent work?
+- What is a torrent file?
+- Bittorrent phases
+- X Window System
+- Server endpoint ( Static vs dynamic approach)
+- Stateless vs Stateful server
+- Iterative server
+- Concurrent server
+- TCP handoff
+- Transport layer switching
+- Content aware distribution
+- What is DNS
+- What is Proxy
+- Mobile IP
+- Care address
+- Home address
+- What is Planet Lab?
+- Code migration
+- Why is code migration important?
+- Java applet
+- What is Process context
+- Code on demand
+- Mobile agents
+- VM migration
+- Cloning in distributed system
+- What does fork do?
+- Transient communication
+- Persistant communication
+- Async communication
+- Sync communication
+- Big Indian
+- Little Indian
+- Client to server binding
+- Web sphere MQ
+- Flooding
+- Anti entropy
+- Rumor spreading
+- Flat naming
+- Forwarding pointer
+- Chord lookup table
+- Finger table
+- Distributed Hash table
+- Hierarchical Location services (HLS)
+- Name space
+- Hard link
+- Soft link
+- Iterative name resolution
+- Recursive name resolution
+- Client name resolver
+- Nl, Vu , Cs nodes
+- Strict consistency
+- Loose consistency
+- Data centric consistency models
+- Client centric consistency models
+- Total ordering
+- Sequential consistency
+- Causal consistency
+- Monotonic read
+- Monotonic write
+- Read your writes
+- Write follows read
+- Primary based protocol
+- Replicated write protocol
+- Remote write protocol
+- Local write protocol
+- Active replication protocol
+- Quorum based protocol
 
 [MIT Distributed systems playlist](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 
