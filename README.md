@@ -188,3 +188,5 @@ LEC 1 :
 
 ## Artificial Intelligence
 
+## Arabization
+
