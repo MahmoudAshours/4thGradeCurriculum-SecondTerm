@@ -179,6 +179,49 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 
 ## Computer Vision
 
+**Notes of Computer vision which will be discussed below :**
+
+- What is computer vision?
+- Machine vision vs Computer vision
+- Layout of image
+- Optical character recognition
+- Global features
+- Local features
+- CBIR tasks
+- EVRW
+- VISE
+- QBIC
+- VSEK
+- MARS
+- I match
+- Global color histogram
+- Haar and Daubechies Wavelets
+- 3 levels wavelet analysis
+- Manhattan distance
+- Color layout Feature
+- Combination between GCH &amp; Haar wavelet
+- Performance evaluation
+- Flat region
+- Edge region
+- Corner region
+- Aperture problem
+- Harris detector
+- Eigenvalue calculations on edges
+- Image Registration
+- Multisensor image fusion
+- How does image fusion happen?
+- Multispectral classification
+- Fusion vs Registration
+- Feature detection - matching - transform - resampling
+- Feature based method
+- Remote sensing
+- Active systems sensors
+- Passive system sensors
+- Rapid eye , Spot , GeoEye , Landsat
+- Components of Satellite
+- IKONOS
+- Panchromatic
+
 LEC 1 :
 
 - [What Is Computer Vision?](https://www.youtube.com/watch?v=WUx_9Cijssw)
