@@ -225,7 +225,10 @@ This repository is based on [Cs-4 repository](https://github.com/Bondok6/Cs-4) w
 LEC 1 :
 
 - [What Is Computer Vision?](https://www.youtube.com/watch?v=WUx_9Cijssw)
+- [What exactly is Computer Vision?](https://www.youtube.com/watch?v=LTlZy-OVWkM)
 - [How Computer Vision Works](https://www.youtube.com/watch?v=OcycT1Jwsns)
+- [Detecting Faces (Viola Jones Algorithm) - Computerphile](https://www.youtube.com/watch?v=uEJ71VlUmMQ)
+- [3D & Multiple Dimensions in Digital Images - Computerphile](https://www.youtube.com/watch?v=f3Ux805uCOk)
 
 ## Wireless communication
 
