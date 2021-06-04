@@ -230,6 +230,14 @@ LEC 1 :
 - [Detecting Faces (Viola Jones Algorithm) - Computerphile](https://www.youtube.com/watch?v=uEJ71VlUmMQ)
 - [3D & Multiple Dimensions in Digital Images - Computerphile](https://www.youtube.com/watch?v=f3Ux805uCOk)
 
+LEC 2 :
+- [Is DeepFake Really All That? - Computerphile](https://www.youtube.com/watch?v=IT6-5ZbabVg)
+- [Matching Image Features | Student Competition: Computer Vision Training](https://www.youtube.com/watch?v=E0ZmFhFMoks)
+- [Computer Vision with OpenCV: HOG Feature Extraction](https://www.youtube.com/watch?v=4ESLTAd3IOM)
+- [Feature Extraction in 2D color Images (Concept of Search by Image) || Gridowit](https://www.youtube.com/watch?v=lv8-YgWYtU4)
+- [CBIR Techniques - What is Content-Based Image Retrieval and How Does it Work](https://www.youtube.com/watch?v=-6-h-KGfrGc)
+
+
 ## Wireless communication
 
 ## Artificial Intelligence
