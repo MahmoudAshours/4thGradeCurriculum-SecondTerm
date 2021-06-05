@@ -244,6 +244,13 @@ LEC 3 :
 - [Aperture Problem in Motion Estimation](https://www.youtube.com/watch?v=vVGorOxMh8w)
 - [Harris Corner Detection - Computer Vision (Python)](https://www.youtube.com/watch?v=0z3ci5Iak4g)
 
+Articles & papers :
+
+- [How can we detect flat regions and edges in a given image?](https://www.researchgate.net/post/how_can_we_detect_flat_regions_and_edges_in_a_given_image)
+- [The Feature-Based Approach](https://users.fmrib.ox.ac.uk/~steve/review/review/node2.html#:~:text=The%20method%20of%20finding%20image,move%20from%20frame%20to%20frame.)
+- [Manhattan Distance](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_506#:~:text=Definition,the%20distances%20in%20each%20dimension.)
+- [Harris Corner Detector & Scale Invariant Feature Transform (SIFT)](https://slideplayer.com/slide/8695490/)
+- [Multisensor image fusion techniques in remote sensing](https://www.sciencedirect.com/science/article/abs/pii/092427169190003E)
 
 ## Wireless communication
 
