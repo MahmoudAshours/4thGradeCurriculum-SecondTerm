@@ -237,6 +237,13 @@ LEC 2 :
 - [Feature Extraction in 2D color Images (Concept of Search by Image) || Gridowit](https://www.youtube.com/watch?v=lv8-YgWYtU4)
 - [CBIR Techniques - What is Content-Based Image Retrieval and How Does it Work](https://www.youtube.com/watch?v=-6-h-KGfrGc)
 
+LEC 3 :
+- [How do Satellites work? | ICT #10](https://www.youtube.com/watch?v=ror4P1UAv_g)
+- [Euclidean Distance and Manhattan Distance](https://www.youtube.com/watch?v=p3HbBlcXDTE)
+- [Solving the Aperture Problem](https://www.youtube.com/watch?v=O1Mc5GAVAiQ)
+- [Aperture Problem in Motion Estimation](https://www.youtube.com/watch?v=vVGorOxMh8w)
+- [Harris Corner Detection - Computer Vision (Python)](https://www.youtube.com/watch?v=0z3ci5Iak4g)
+
 
 ## Wireless communication
 
