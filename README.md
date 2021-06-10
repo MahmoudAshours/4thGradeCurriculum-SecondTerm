@@ -254,6 +254,28 @@ Articles & papers :
 
 ## Wireless communication
 
+LEC 1 :
+
+- [Ericsson: The History of Wireless Communication](https://www.youtube.com/watch?v=X5jPoQzEh-M)
+- [What is Wireless Communication.](https://www.youtube.com/watch?v=NG5WFw_v4hA)
+- [Wireless Communication](https://www.youtube.com/watch?v=bE2jLizFi1A)
+- [Understanding Spectrum! | ICT  #6](https://www.youtube.com/watch?v=DXt-rXDu9M8)
+- [How WiFi and Cell Phones Work | Wireless Communication Explained](https://www.youtube.com/watch?v=kxLcwIMYmr0)
+- [What are some problems caused by wireless communication?](https://www.youtube.com/watch?v=QiLYp2OyPTU)
+- [Wi-Fi signals: reflection, absorption, diffraction, scattering, and interference](https://www.youtube.com/watch?v=UxDdwGhSf4o)
+- [Electromagnetic Interference as Fast As Possible](https://www.youtube.com/watch?v=AHbrVad86xw)
+- [The Doppler Effect: what does motion do to waves?](https://www.youtube.com/watch?v=h4OnBYrbCjY)
+- [What If Wifi Was Visible?](https://www.youtube.com/watch?v=gYvKt0CT9bc)
+- [Building a Camera That Can See Wifi | Part 3 SUCCESS!](https://www.youtube.com/watch?v=g3LT_b6K0Mc)
+- [Difference between Analog and Digital Signals | AddOhms #6](https://www.youtube.com/watch?v=WxJKXGugfh8)
+- [Analog vs. Digital As Fast As Possible](https://www.youtube.com/watch?v=btgAUdbj85E)
+- [What is a Codec as Fast As Possible](https://www.youtube.com/watch?v=GhWki9a7s18)
+- [How to Understand Codecs](https://www.youtube.com/watch?v=sisvOeZItb0)
+- [Analog-to-Digital Converters (ADC) - Basics](https://www.youtube.com/watch?v=0y8AD8maAHo)
+- [The Truth About Wireless Charging](https://www.youtube.com/watch?v=iOVg62_DUYU)
+- [What are 0G, 1G, 2G, 3G, 4G, 5G Cellular Mobile Networks - History of Wireless Telecommunications](https://www.youtube.com/watch?v=m8YkIcDVbGQ)
+
+
 ## Artificial Intelligence
 
 ## Arabization
