@@ -316,6 +316,13 @@ LEC 2 & LEC 3 :
 - [Ground Wave Propagation | Why energy of ground wave reduced ? | With Diagram | Real time Application](https://www.youtube.com/watch?v=Ry6Y-sMArts)
 - [Science - Transmission of Sound](https://www.youtube.com/watch?v=GkNJvZINSEY)
 - [PROPAGATION OF ELECTROMAGNETIC WAVES PART 01](https://www.youtube.com/watch?v=r-shNhpBkhs)
+- [Line of Sight Explanation](https://www.youtube.com/watch?v=N6B9CCLI5C4)
+- [Line of Sight LOS Propagation](https://www.youtube.com/watch?v=E-2AqI_IbOE)
+- [6 - Free Space Path Loss](https://www.youtube.com/watch?v=-R4ljyNamlc)
+- [What is Path Loss?](https://www.youtube.com/watch?v=s83CsDGy93o)
+
+
+LEC 4 :
 
 ## Artificial Intelligence
 
