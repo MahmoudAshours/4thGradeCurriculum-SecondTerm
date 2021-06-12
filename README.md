@@ -281,7 +281,15 @@ LEC 2 :
 - [What Is A Signal Booster? Do They Work? Are They Legal? The Truth!](https://www.youtube.com/watch?v=nhlz0TaRl8o)
 - [How To Boost Your Cell Phone Signal](https://www.youtube.com/watch?v=ytQ0LzatWeQ)
 - [How to Extend Wi-Fi Range on the CHEAP](https://www.youtube.com/watch?v=coBpIkNAfzI)
-
+- [How Repeaters Work](https://www.youtube.com/watch?v=b-kR1MSgr9k)
+- [Digital Data Analog Signal](https://www.youtube.com/watch?v=vWpx3CYMEWY)
+- [Introduction to channel capacity | Journey into information theory | Computer Science | Khan Academy](https://www.youtube.com/watch?v=W-OskAegz5o)
+- [What is the Shannon capacity theorem?](https://www.youtube.com/watch?v=ancDN11C2vg)
+- [Basic Channel Capacity Behaviors [Video 4]](https://www.youtube.com/watch?v=kP_FhaclHPg)
+- [Not Here, Not There, Not Nowhere, and Not Everywhere—Superposition in Real Life](https://www.youtube.com/watch?v=YB4uqpQd2AQ)
+- [Shannon Nyquist Sampling Theorem](https://www.youtube.com/watch?v=FcXZ28BX-xE)
+- [Sampling, Aliasing & Nyquist Theorem](https://www.youtube.com/watch?v=yWqrx08UeUs)
+- [Data Transmission 3: Channel Capacity](https://www.youtube.com/watch?v=rcbQYeQHlnc)
 
 ## Artificial Intelligence
 
