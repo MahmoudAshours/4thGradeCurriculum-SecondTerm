@@ -276,7 +276,7 @@ LEC 1 :
 - [What are 0G, 1G, 2G, 3G, 4G, 5G Cellular Mobile Networks - History of Wireless Telecommunications](https://www.youtube.com/watch?v=m8YkIcDVbGQ)
 - [AM and FM Radio As Fast As Possible](https://www.youtube.com/watch?v=w3M4cqAMWQs)
 
-LEC 2 :
+LEC 2 & LEC 3 :
 - [TV Antenna Signal Amplifiers Explained: Do They Improve Reception?](https://www.youtube.com/watch?v=1x3M5rE2U24)
 - [What Is A Signal Booster? Do They Work? Are They Legal? The Truth!](https://www.youtube.com/watch?v=nhlz0TaRl8o)
 - [How To Boost Your Cell Phone Signal](https://www.youtube.com/watch?v=ytQ0LzatWeQ)
@@ -297,8 +297,15 @@ LEC 2 :
 - [Frequency Division Multiplexing (FDM)](https://www.youtube.com/watch?v=aeC_yOzA0xo)
 - [TDM, Statistical TDM & FDM](https://www.youtube.com/watch?v=fIZhDl35_XY)
 - [Multiplexing Tutorial - TDM, STDM, FDM Explained](https://www.youtube.com/watch?v=Nzqyjnc8ZSw)
+- [Omnidirectional vs directional antennas what's the difference? | weBoost](https://www.youtube.com/watch?v=rmFzEXHecSU)
+- [How does an Antenna work? | ICT #4](https://www.youtube.com/watch?v=ZaXm6wau-jc)
+- [Antenna Radiating Patterns explained](https://www.youtube.com/watch?v=twNVEyjbKRY)
+- [Omni Directional vs. Directional TV Antennas - Which Works Better?](https://www.youtube.com/watch?v=hTuKRLhpGHA)
+- [Frequency Division Multiplexing (FDM)](https://www.youtube.com/watch?v=aeC_yOzA0xo)
+- [TDM, Statistical TDM & FDM](https://www.youtube.com/watch?v=fIZhDl35_XY)
+- [Multiplexing Tutorial - TDM, STDM, FDM Explained](https://www.youtube.com/watch?v=Nzqyjnc8ZSw)
+- [What is an Isotropic Antenna?](https://www.youtube.com/watch?v=T5uzMuFce2E)
 
-LEC 3 :
 
 ## Artificial Intelligence
 
