@@ -323,6 +323,19 @@ LEC 2 & LEC 3 :
 
 
 LEC 4 :
+- [Introduction to Thermal Noise](https://www.youtube.com/watch?v=RVTtHZ4IfZ0)
+- [All about Noises (Thermal, shot and flicker noise)](https://www.youtube.com/watch?v=rheyRSnn9hc)
+- [Boltzmann's constant | Physics | Khan Academy](https://www.youtube.com/watch?v=rVD7HKafnnE)
+- [What is Intermodulation?](https://www.youtube.com/watch?v=IrlyAei02_o)
+- [Cross Talk Problems with Unshielded Twisted Pair Cabling](https://www.youtube.com/watch?v=SguxCeOFPQk)
+- [Impulse noise and how it affects upstream traffic.](https://www.youtube.com/watch?v=ZdrsphtTjUY)
+- [Signal Power and Energy](https://www.youtube.com/watch?v=7I9XEhAup4c)
+- [ESE 471 Calculation of EbN0](https://www.youtube.com/watch?v=eu2JqtT8m2w)
+- [What are SNR and Eb/No?](https://www.youtube.com/watch?v=bNYvXr6tzXQ)
+- [Lecture 06: Bit Error Rate (BER) Performance](https://www.youtube.com/watch?v=v5jZSm6lMwU)
+- [Processing: Encoding & Decoding Analog & Digital Signals](https://www.youtube.com/watch?v=qSEmEpv5ct8)
+- [How Digital Audio Works - Computerphile](https://www.youtube.com/watch?v=1RIA9U5oXro)
+
 
 ## Artificial Intelligence
 
