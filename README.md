@@ -290,6 +290,15 @@ LEC 2 :
 - [Shannon Nyquist Sampling Theorem](https://www.youtube.com/watch?v=FcXZ28BX-xE)
 - [Sampling, Aliasing & Nyquist Theorem](https://www.youtube.com/watch?v=yWqrx08UeUs)
 - [Data Transmission 3: Channel Capacity](https://www.youtube.com/watch?v=rcbQYeQHlnc)
+- [Omnidirectional vs directional antennas what's the difference? | weBoost](https://www.youtube.com/watch?v=rmFzEXHecSU)
+- [How does an Antenna work? | ICT #4](https://www.youtube.com/watch?v=ZaXm6wau-jc)
+- [Antenna Radiating Patterns explained](https://www.youtube.com/watch?v=twNVEyjbKRY)
+- [Omni Directional vs. Directional TV Antennas - Which Works Better?](https://www.youtube.com/watch?v=hTuKRLhpGHA)
+- [Frequency Division Multiplexing (FDM)](https://www.youtube.com/watch?v=aeC_yOzA0xo)
+- [TDM, Statistical TDM & FDM](https://www.youtube.com/watch?v=fIZhDl35_XY)
+- [Multiplexing Tutorial - TDM, STDM, FDM Explained](https://www.youtube.com/watch?v=Nzqyjnc8ZSw)
+
+LEC 3 :
 
 ## Artificial Intelligence
 
