@@ -274,6 +274,7 @@ LEC 1 :
 - [Analog-to-Digital Converters (ADC) - Basics](https://www.youtube.com/watch?v=0y8AD8maAHo)
 - [The Truth About Wireless Charging](https://www.youtube.com/watch?v=iOVg62_DUYU)
 - [What are 0G, 1G, 2G, 3G, 4G, 5G Cellular Mobile Networks - History of Wireless Telecommunications](https://www.youtube.com/watch?v=m8YkIcDVbGQ)
+- [AM and FM Radio As Fast As Possible](https://www.youtube.com/watch?v=w3M4cqAMWQs)
 
 
 ## Artificial Intelligence
