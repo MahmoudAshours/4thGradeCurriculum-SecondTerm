@@ -305,7 +305,17 @@ LEC 2 & LEC 3 :
 - [TDM, Statistical TDM & FDM](https://www.youtube.com/watch?v=fIZhDl35_XY)
 - [Multiplexing Tutorial - TDM, STDM, FDM Explained](https://www.youtube.com/watch?v=Nzqyjnc8ZSw)
 - [What is an Isotropic Antenna?](https://www.youtube.com/watch?v=T5uzMuFce2E)
-
+- [Physics 50   E&M Radiation (8 of 33) Dipole Antenna Radiation Pattern](https://www.youtube.com/watch?v=8Eae3lqdtBY)
+- [24dBi Parabolic Grid - 2.4GHz Long Range WiFi Antenna Updated 2016/2017](https://www.youtube.com/watch?v=R-bv1wlD9WE)
+- [Inside Wireless: Antenna Gain](https://www.youtube.com/watch?v=errdGMyQF6k)
+- [Inside Wireless: Radiation Diagram](https://www.youtube.com/watch?v=rwciKjvHFfY)
+- [What is Antenna Gain?](https://www.youtube.com/watch?v=wGE4tjATecY)
+- [What is a Decibel?](https://www.youtube.com/watch?v=Dy7V517NfqQ)
+- [A Quick Look at Decibels - RSD Academy](https://www.youtube.com/watch?v=_qOuICZQOgQ)
+- [Topic 21 Part 8  Effective Area](https://www.youtube.com/watch?v=gzq6vQ3fEvc)
+- [Ground Wave Propagation | Why energy of ground wave reduced ? | With Diagram | Real time Application](https://www.youtube.com/watch?v=Ry6Y-sMArts)
+- [Science - Transmission of Sound](https://www.youtube.com/watch?v=GkNJvZINSEY)
+- [PROPAGATION OF ELECTROMAGNETIC WAVES PART 01](https://www.youtube.com/watch?v=r-shNhpBkhs)
 
 ## Artificial Intelligence
 
