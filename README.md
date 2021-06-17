@@ -337,7 +337,12 @@ LEC 4 :
 - [How Digital Audio Works - Computerphile](https://www.youtube.com/watch?v=1RIA9U5oXro)
 
 
+## Arabization
+Defined  as  the  conversion of  well-tested  and well-proven  computer  software to  enable Arabic-speaking users to utilize it effectively and efficiently.
+The contents of the course is mostly the same as [data mining course](https://github.com/MeitanteiAshour/4thGradeCurriculum#data-mining-) 
+
+
 ## Artificial Intelligence
 
-## Arabization
+
 
